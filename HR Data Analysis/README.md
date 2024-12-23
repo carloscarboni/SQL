@@ -10,7 +10,7 @@ The queries integrate absenteeism records, compensation data, and reasons for ab
 - Advanced analytics with conditional logic and categorization (CASE statements)
 - Trend analysis and KPI development
 ### Technology:
-- SQL (compatible with MySQL, PostgreSQL, or similar)
+- SQL 
 - Power BI for dashboard design and interactive reporting
 - Relational database systems for data storage and querying
 ### Results:
