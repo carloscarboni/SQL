@@ -1,3 +1,5 @@
+# Spotify and Youtube Data Analysis
+
 - **Objective:**
   - Analyze Spotify track data to derive key insights about artist performance, track popularity, and album characteristics. Present findings through queries ranging from exploratory data analysis (EDA) to advanced metrics computation.
 
