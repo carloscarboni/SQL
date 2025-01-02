@@ -5,10 +5,10 @@ Analyze revenue and operational data from hotel records (2018–2020) to identif
 The SQL script combines data from multiple yearly datasets (2018, 2019, 2020) into a unified table, enriching it with additional information from related tables like market segments and meal costs. The integrated data is visualized in Power BI to display key metrics such as total revenue, average daily rate (ADR), and parking requirements. The dashboard also highlights revenue trends by hotel type and the contribution of each year to total revenue.
 
 ### Skills:
-- SQL for data integration and cleaning (UNION, JOIN operations)
+- SQL for data integration and cleaning.
 - Data modeling and relationship handling across multiple tables
 - Dashboard creation and interactivity in Power BI
-- Trend and KPI analysis (e.g., ADR, revenue distribution)
+- Trend and KPI analysis.
 ### Technology:
 - SQL (applicable to Microsoft SQL Server or equivalent)
 - Power BI for interactive reporting and visualization
